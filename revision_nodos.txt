@@ -1,0 +1,9 @@
+Evaluacion de numero de nodos en la cantidad de modelados:
+
+-> Codo: nada
+-> Sileuta: 3<<<6 codos
+-> Calins: 3-4 mejor
+-> Davies: 4 y 6 mejores
+
+Probar: 3-4-6
+puede ser 6 creo
